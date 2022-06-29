@@ -92,8 +92,8 @@ let gameOverTexture = [
 
 let playerType = 1
 let player = {
-    x: 1.5,
-    y: 1.5,
+    x: 1.0,
+    y: 1.0,
     xVel: 0.0,
     yVel: 0.0,
     angVel: 0.0, // angular velocity
